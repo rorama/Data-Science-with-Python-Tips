@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+#change 1 made here
+
 # # <font color=blue><b>Lesson 1: Data Structures</b></font>
 # 
 # Data structures in Python: 
@@ -272,6 +274,7 @@ x
 
 # In[217]:
 
+#change 2 made here
 
 #enumerate
 #Not infrequently, you’ll want to iterate over a list and use both its elements and their indexes:
