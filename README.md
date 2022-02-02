@@ -10,10 +10,12 @@ This project only aims to help those who might find themselves in such circumsta
 
 Currently, I share some basic Python language fundamentals and Pandas, but will be expanding with time. 
 
-Python Data Structures
-Some Python language fundamentals
-Pandas
-GeoPandas
+- Python Data Structures
+- Some Python language fundamentals
+- Pandas
+- GeoPandas
+- Plotly
+- Matplotlib
 
 In time, I hope to include tips on Flask, SQLAlchemy, and other related libraries that I used in some recent develpoments.
 
