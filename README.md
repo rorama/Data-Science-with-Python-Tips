@@ -20,3 +20,4 @@ Currently, I share some Python language fundamentals and basic/advanced examples
 In time, I hope to include tips on Flask, SQLAlchemy, and other related libraries that I used in some recent develpoments.
 
 ![image](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true)
+![Example image](./img/example.png)
