@@ -19,4 +19,11 @@ Currently, I share some Python language fundamentals and basic/advanced examples
 
 In time, I hope to include tips on Flask, SQLAlchemy, and other related libraries that I used in some recent develpoments.
 
-![Example image](./tools3.png)
+To demonstrate some outputs of my project that are not possible to include in the repo for good reasons, please see the screenshots below that are taken from my Flask web application that contains these functionalities.
+
+![Example image](./tools3.PNG)
+
+![Example image](./tools2.PNG)
+
+![Example image](./tools1.PNG)
+
