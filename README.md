@@ -35,8 +35,3 @@ To demonstrate some outputs of my project that are not possible to include in th
   <img src="./tools1.PNG" />
 </td></tr></table>
 
-
-![Example image](./tools2.PNG)
-
-![Example image](./tools1.PNG)
-
