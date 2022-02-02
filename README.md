@@ -12,10 +12,9 @@ Currently, I share some basic Python language fundamentals and Pandas, but will 
 
 - Python Data Structures
 - Some Python language fundamentals
-- Pandas
-- GeoPandas
+- Pandas (including use-cases of web-scraping and anakysis of data about weather and currency exchange rates). Also analysis of telephone call logs.
+- GeoPandas (including use-cases of all major geo-processing tasks)
 - Plotly
 - Matplotlib
 
 In time, I hope to include tips on Flask, SQLAlchemy, and other related libraries that I used in some recent develpoments.
-
