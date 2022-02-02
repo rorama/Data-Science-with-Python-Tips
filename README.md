@@ -1,4 +1,4 @@
-# data_science
+# Data_Structures
 Python Data Structures
 
 # Motivation for this project
