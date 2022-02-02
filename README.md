@@ -21,7 +21,20 @@ In time, I hope to include tips on Flask, SQLAlchemy, and other related librarie
 
 To demonstrate some outputs of my project that are not possible to include in the repo for good reasons, please see the screenshots below that are taken from my Flask web application that contains these functionalities.
 
-![Example image](./tools3.PNG)
+<table  style="border: 2px solid red;"><tr><td>
+  <img src="./tools3.PNG" />
+</td></tr></table>
+
+
+<table  style="border: 2px solid red;"><tr><td>
+  <img src="./tools2.PNG" />
+</td></tr></table>
+
+
+<table  style="border: 2px solid red;"><tr><td>
+  <img src="./tools1.PNG" />
+</td></tr></table>
+
 
 ![Example image](./tools2.PNG)
 
