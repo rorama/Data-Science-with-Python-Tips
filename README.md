@@ -8,7 +8,7 @@ There are many web development frameworks and libraries all over. In the case of
 
 This project only aims to help those who might find themselves in such circumstances. It just touches on the very basics, nothing more. It is simply a wake up call that programming/development requires much more than creating a data entry form, connecting to a database and allowing users to enter data. With all available online resources, we all should endavor to learn the fundamentals before diving into any framework.
 
-Currently, I share some basic Python language fundamentals and Pandas, but will be expanding with time. 
+Currently, I share some Python language fundamentals and basic/advanced examples of Pandas analysis, but will be expanding with time. 
 
 - Python Data Structures
 - Some Python language fundamentals
