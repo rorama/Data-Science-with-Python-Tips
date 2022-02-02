@@ -2,7 +2,7 @@
 Python Data Structures
 
 # Motivation for this project
-In the spirit of sharing, this project is an accumulation of someof the daily recording of work done as part of several projects. As you know, everyday provides an opportunity to learn, no matter your level of exprtise. Therefore, I share some very basic as well as some rather advanced tips.
+In the spirit of sharing, this project is an accumulation of some of the daily recording of work done as part of several projects. As you know, everyday provides an opportunity to learn, no matter your level of exprtise. Therefore, I share some very basic as well as some rather advanced tips.
 
 Currently, I share some basic laguage fundamentals and Pandas, but will be expanding with time.
 
