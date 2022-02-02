@@ -1,4 +1,4 @@
-# Sata Science with Python Tips
+# Data Science with Python Tips
 Collection of Python Tips
 
 # Motivation for this project
