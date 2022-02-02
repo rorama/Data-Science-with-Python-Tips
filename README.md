@@ -1,5 +1,5 @@
 # Data Science with Python Tips
-Collection of Python Tips
+A useful and handy practical collection of Python Tips picked from my own projects
 
 # Motivation for this project
 In the spirit of sharing, this project is an accumulation of some of the daily recording of work done as part of several projects. As you know, everyday provides an opportunity to learn, no matter your level of expertise. Therefore, I share some very basic as well as some rather advanced tips.
