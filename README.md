@@ -24,17 +24,17 @@ To demonstrate some outputs of my project that are not possible to include in th
 ### Dynamic, interactive, and styled reports delivered in a Flask web-application and MySQL database
 
 #### Pandas with Plotly 
-<table  style="border: 2px solid red;"><tr><td>
+<table border="1"><tr><td>
   <img src=".//images/tools3.PNG" />
 </td></tr></table>
 
 #### Pandas with Pivot Table
-<table  style="border: 2px solid red;"><tr><td>
+<table border="1"><tr><td>
   <img src="./images/tools2.PNG" />
 </td></tr></table>
 
 #### Pandas with simple Re-indexing
-<table  style="border: 2px solid red;"><tr><td>
+<table border="1"><tr><td>
   <img src="./images/tools1.PNG" />
 </td></tr></table>
 
