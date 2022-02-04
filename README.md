@@ -21,7 +21,7 @@ In time, I hope to include tips on Flask, SQLAlchemy, and other related librarie
 
 To demonstrate some outputs of my project that are not possible to include in the repo for good reasons, please see the screenshots below that are taken from my Flask web application that contains these functionalities.
 
-### Dynamic, interactive, and styled reports delivered in a Flask web-application and MySQL database
+### Samples of dynamic, interactive, and styled reports delivered in a Flask web-application and MySQL database
 
 <br/>
 
