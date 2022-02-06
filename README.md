@@ -21,19 +21,25 @@ In time, I hope to include tips on Flask, SQLAlchemy, and other related librarie
 
 To demonstrate some outputs of my project that are not possible to include in the repo for good reasons, please see the screenshots below that are taken from my Flask web application that contains these functionalities.
 
-### Dynamic, interactive, and styled reports delivered in a Flask web-application and MySQL database
+### Samples of dynamic, interactive, and styled reports delivered in a Flask web-application and MySQL database
+
+<br/>
 
 #### Pandas with Plotly 
 <table border="1"><tr><td>
   <img src=".//images/tools3.PNG" />
 </td></tr></table>
 
-#### Pandas with Pivot Table
+<br/>
+
+#### Pandas with simple Re-indexing
 <table border="1"><tr><td>
   <img src="./images/tools2.PNG" />
 </td></tr></table>
 
-#### Pandas with simple Re-indexing
+<br/>
+
+#### Pandas with Pivot Table
 <table border="1"><tr><td>
   <img src="./images/tools1.PNG" />
 </td></tr></table>
