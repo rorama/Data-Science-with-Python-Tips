@@ -44,3 +44,9 @@ To demonstrate some outputs of my project that are not possible to include in th
   <img src="./images/tools1.PNG" />
 </td></tr></table>
 
+#### Pandas with Matplotlib
+<table border="1"><tr><td>
+  <img src="./images/etools4.PNG" />
+</td></tr></table>
+
+
