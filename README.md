@@ -25,6 +25,13 @@ To demonstrate some outputs of my project that are not possible to include in th
 
 <br/>
 
+#### Geopandas with Pandas and Matplotlib
+<table border="1"><tr><td>
+  <img src="./images/etools4.PNG" />
+</td></tr></table>
+
+<br/>
+
 #### Pandas with Plotly 
 <table border="1"><tr><td>
   <img src=".//images/tools3.PNG" />
@@ -44,9 +51,5 @@ To demonstrate some outputs of my project that are not possible to include in th
   <img src="./images/tools1.PNG" />
 </td></tr></table>
 
-#### Geopandas with Pandas and Matplotlib
-<table border="1"><tr><td>
-  <img src="./images/etools4.PNG" />
-</td></tr></table>
 
 
