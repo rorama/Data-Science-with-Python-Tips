@@ -48,7 +48,7 @@ To demonstrate some outputs of my project that are not possible to include in th
 
 #### Pandas with Pivot Table
 <table border="1"><tr><td>
-  <img src="./images/etools3-matri.PNG" />
+  <img src="./images/etools3v-matri.PNG" />
 </td></tr></table>
 
 
