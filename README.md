@@ -27,28 +27,28 @@ To demonstrate some outputs of my project that are not possible to include in th
 
 #### Geopandas with Pandas and Matplotlib
 <table border="1"><tr><td>
-  <img src="./images/etools4.PNG" />
+  <img src="./images/etools8-charts.PNG" />
 </td></tr></table>
 
 <br/>
 
 #### Pandas with Plotly 
 <table border="1"><tr><td>
-  <img src=".//images/tools3.PNG" />
+  <img src=".//images/etools4-dashboard.PNG" />
 </td></tr></table>
 
 <br/>
 
 #### Pandas with simple Re-indexing
 <table border="1"><tr><td>
-  <img src="./images/tools2.PNG" />
+  <img src="./images/etools7-list.PNG" />
 </td></tr></table>
 
 <br/>
 
 #### Pandas with Pivot Table
 <table border="1"><tr><td>
-  <img src="./images/tools1.PNG" />
+  <img src="./images/etools3-matri.PNG" />
 </td></tr></table>
 
 
