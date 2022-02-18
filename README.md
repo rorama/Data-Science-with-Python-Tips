@@ -25,6 +25,13 @@ To demonstrate some outputs of my project that are not possible to include in th
 
 <br/>
 
+#### Simpe Flask Data Entry Form
+<table border="1"><tr><td>
+  <img src="./images/etools8-charts.PNG" />
+</td></tr></table>
+
+<br/>
+
 #### Geopandas with Pandas and Matplotlib
 <table border="1"><tr><td>
   <img src="./images/etools8-charts.PNG" />
