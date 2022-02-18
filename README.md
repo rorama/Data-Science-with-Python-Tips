@@ -21,11 +21,11 @@ In time, I hope to include tips on Flask, SQLAlchemy, and other related librarie
 
 To demonstrate some outputs of my project that are not possible to include in the repo for good reasons, please see the screenshots below that are taken from my Flask web application that contains these functionalities.
 
-### Samples of data tools delivered in a Flask web-application and MySQL database
+### Real-life samples of data tools delivered in a Flask web-application and MySQL database project
 
 <br/>
 
-#### Simpe Flask Data Collection Tool
+#### Simple Flask Data Collection Tool
 <table border="1"><tr><td>
   <img src="./images/etools1-plain.PNG" />
 </td></tr></table>
