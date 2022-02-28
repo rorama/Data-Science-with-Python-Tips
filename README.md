@@ -27,7 +27,7 @@ To demonstrate some outputs of my project that are not possible to include in th
 
 #### Simple Flask Data Collection Tool
 <table border="1"><tr><td>
-  <img src="./images/tb1-plainPNG" />
+  <img src="./images/tb1-plain.PNG" />
 </td></tr></table>
 
 <br/>
