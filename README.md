@@ -27,35 +27,35 @@ To demonstrate some outputs of my project that are not possible to include in th
 
 #### Simple Flask Data Collection Tool
 <table border="1"><tr><td>
-  <img src="./images/etools1-plain.PNG" />
+  <img src="./images/tb1-plainPNG" />
 </td></tr></table>
 
 <br/>
 
 #### Geopandas with Pandas and Matplotlib
 <table border="1"><tr><td>
-  <img src="./images/etools8-charts.PNG" />
+  <img src="./images/tb2-charts.PNG" />
 </td></tr></table>
 
 <br/>
 
 #### Pandas with Plotly 
 <table border="1"><tr><td>
-  <img src=".//images/etools4-dashboard.PNG" />
+  <img src=".//images/tb5-visual" />
 </td></tr></table>
 
 <br/>
 
 #### Pandas with simple Re-indexing
 <table border="1"><tr><td>
-  <img src="./images/etools7-list.PNG" />
+  <img src="./images/tb6-list.PNG" />
 </td></tr></table>
 
 <br/>
 
 #### Pandas with Pivot Table
 <table border="1"><tr><td>
-  <img src="./images/etools3-matri.PNG" />
+  <img src="./images/tb3-matrix.PNG" />
 </td></tr></table>
 
 
