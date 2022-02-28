@@ -41,7 +41,7 @@ To demonstrate some outputs of my project that are not possible to include in th
 
 #### Pandas with Plotly 
 <table border="1"><tr><td>
-  <img src=".//images/tb5-visual" />
+  <img src=".//images/tb5-visual.PNG" />
 </td></tr></table>
 
 <br/>
